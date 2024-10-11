@@ -1,0 +1,23 @@
+************** Résumé de la commande N°1 **************
+salade - 5.0€
+boeuf - 12.0€
+frites - 3.0€
+soda - 2.0€
+tiramisu - 6.0€
+Total : 28.0€
+
+************** Résumé de la commande N°2 **************
+quiche - 7.0€
+poulet - 10.0€
+légumes - 4.0€
+eau plate - 1.5€
+mousse au chocolat - 5.0€
+Total : 27.5€
+
+************** Résumé de la commande N°3 **************
+soupe - 4.5€
+vegan - 9.0€
+pâtes - 8.0€
+tiramisu - 6.0€
+Total : 27.5€
+
